@@ -1,0 +1,5 @@
+Imbalanced Learn
+https://imbalanced-learn.org/stable/install.html#install
+
+Creditcard dataset
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud (Obs 69 mb zipfil)
